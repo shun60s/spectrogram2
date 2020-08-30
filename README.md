@@ -18,3 +18,15 @@ Some part of harmonic structure of each source is lost to compare with original 
 
 ![figure2](doc/mic_record.png)  
 
+
+## usage   
+
+```
+python3 spectrogram2.py  
+```
+
+## License  
+
+MIT  
+
+
